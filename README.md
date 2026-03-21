@@ -1,31 +1,46 @@
----📊 Sales Analytics Dashboard---
+# 📊 Sales Analytics Dashboard
 
-A modern Sales Analytics Dashboard built using React, Recharts, and Tailwind CSS to visualize and analyze sales data effectively.
+A modern **Sales Analytics Dashboard** built using **React, Recharts, and Tailwind CSS** to visualize and analyze sales data effectively.
 
----🚀 Features---
-    📈 Interactive Charts
-       -->Bar Charts
-       -->Line Charts
-       -->Pie Charts
-    📊 Sales Insights
-       -->Revenue tracking
-       -->Product performance
-       -->Regional analysis
----🔍 Advanced Filtering---
-Filter by region, product, channel, and customer type
-    💰 Key Metrics
-      -->Total Revenue
-      -->Orders Count
-      -->Units Sold
-      -->Refund Analysis
----⚡ Responsive Design---
-Works seamlessly across devices
-     🛠️ Tech Stack
-      -->Frontend: React.js
-      -->Charts: Recharts
-      -->Styling: Tailwind CSS
-      -->Icons: Lucide React
-📂 Project Structure
+---
+
+## 🚀 Features
+
+### 📈 Interactive Charts
+- Bar Charts  
+- Line Charts  
+- Pie Charts  
+
+### 📊 Sales Insights
+- Revenue tracking  
+- Product performance  
+- Regional analysis  
+
+### 🔍 Advanced Filtering
+- Filter by region, product, channel, and customer type  
+
+### 💰 Key Metrics
+- Total Revenue  
+- Orders Count  
+- Units Sold  
+- Refund Analysis  
+
+### ⚡ Responsive Design
+- Works seamlessly across devices  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Charts:** Recharts  
+- **Styling:** Tailwind CSS  
+- **Icons:** Lucide React  
+
+---
+
+## 📂 Project Structure
+
         project/
         │-- src/
         │   ├── components/
@@ -36,23 +51,25 @@ Works seamlessly across devices
         │-- public/
         │-- package.json
         │-- README.md
-        📊 Dataset Overview
+        
 
-The dataset contains:
+## 📊 Dataset Overview
 
-        -->order_id – Unique order identifier
-        -->order_date – Date of order
-        -->month – Month of transaction
-        -->region – Sales region (NA, LATAM, APAC, EMEA)
-        -->product – Product type (Basic, Pro, Enterprise)
-        -->channel – Sales channel
-        -->source – Marketing source
-        -->customer_type – New / Returning
-        -->units – Quantity sold
-        -->unit_price – Price per unit
-        -->discount – Applied discount
-        -->refunded – Refund status
-        -->revenue – Final revenue
+The dataset includes key fields such as:
+
+- `order_id` – Unique order identifier  
+- `order_date` – Date of order  
+- `month` – Month of transaction  
+- `region` – Sales region (North America, LATAM, APAC, EMEA)  
+- `product` – Product type (Basic, Pro, Enterprise)  
+- `channel` – Sales channel (Website, Sales, Partner)  
+- `source` – Marketing source (Organic, Paid Search, Referral, etc.)  
+- `customer_type` – New / Returning customers  
+- `units` – Quantity sold  
+- `unit_price` – Price per unit  
+- `discount` – Discount applied  
+- `refunded` – Refund status  
+- `revenue` – Final revenue generated  
 ---⚙️ Installation & Setup---
         1️⃣ Clone the repository
              git clone https://github.com/your-username/sales-dashboard.git
