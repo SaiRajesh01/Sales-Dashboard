@@ -70,33 +70,37 @@ The dataset includes key fields such as:
 - `discount` – Discount applied  
 - `refunded` – Refund status  
 - `revenue` – Final revenue generated  
----⚙️ Installation & Setup---
-        1️⃣ Clone the repository
-             git clone https://github.com/your-username/sales-dashboard.git
-        cd sales-dashboard
-        2️⃣ Install dependencies
-             npm install
-        3️⃣ Run the project
-             npm start
-        📈 Dashboard Insights
-            -->Identify top-performing regions
-            -->Analyze customer behavior (New vs Returning)
-            -->Track monthly revenue trends
-            -->Monitor refund impact on revenue
-            -->Compare product performance
-        🎯 Use Cases
-            -->Business Intelligence Dashboard
-            -->Sales Performance Monitoring
-            -->Data Visualization Projects
-            -->Portfolio Projects (React + Charts)
----📌 Future Enhancements---
-            🔄 Real-time data integration
-            📥 Export reports (PDF/CSV)
-            🌐 Backend integration (Node.js / Flask)
-            🤖 AI-based insights
-            🤝 Contributing
+---
+### ⚙️ Installation & Setup
+### 1️⃣ Clone the repository
+-`git clone https://github.com/your-username/sales-dashboard.git`
+-`cd sales-dashboard`
+### 2️⃣ Install dependencies
+-`npm install`
+### 3️⃣ Run the project
+-`npm start`
+### 📈 Dashboard Insights
+-`Identify top-performing regions`
+-`Analyze customer behavior (New vs Returning)`
+-`Track monthly revenue trends`
+-`Monitor refund impact on revenue`
+-`Compare product performance`
+### 🎯 Use Cases
+-`Business Intelligence Dashboard`
+-`Sales Performance Monitoring`
+-`Data Visualization Projects`
+-`Portfolio Projects (React + Charts)`
+---
+### 📌 Future Enhancements
+🔄 Real-time data integration
+📥 Export reports (PDF/CSV)
+🌐 Backend integration (Node.js / Flask)
+🤖 AI-based insights
+🤝 Contributing
 
----Contributions are welcome!---
+---
+### Contributions are welcome!
+---
 
             1. Fork the repository
             2. Create your feature branch
