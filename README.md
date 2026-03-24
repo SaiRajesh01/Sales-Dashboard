@@ -52,7 +52,7 @@ A modern **Sales Analytics Dashboard** built using **React, Recharts, and Tailwi
         │-- package.json
         │-- README.md
         
-
+---
 ## 📊 Dataset Overview
 
 The dataset includes key fields such as:
@@ -96,7 +96,7 @@ The dataset includes key fields such as:
 -`🌐 Backend integration (Node.js / Flask)`
 -`🤖 AI-based insights`
 -`🤝 Contributing`
-
+---
 ---
 ### Contributions are welcome!
 ---
