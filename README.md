@@ -70,7 +70,7 @@ The dataset includes key fields such as:
 - `discount` – Discount applied  
 - `refunded` – Refund status  
 - `revenue` – Final revenue generated  
----
+
 ### ⚙️ Installation & Setup
 ### 1️⃣ Clone the repository
 -`git clone https://github.com/your-username/sales-dashboard.git`
@@ -90,7 +90,6 @@ The dataset includes key fields such as:
 -`Sales Performance Monitoring`
 -`Data Visualization Projects`
 -`Portfolio Projects (React + Charts)`
----
 ### 📌 Future Enhancements
 -`🔄 Real-time data integration`
 -`📥 Export reports (PDF/CSV)`
