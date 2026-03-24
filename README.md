@@ -92,11 +92,11 @@ The dataset includes key fields such as:
 -`Portfolio Projects (React + Charts)`
 ---
 ### 📌 Future Enhancements
-🔄 Real-time data integration
-📥 Export reports (PDF/CSV)
-🌐 Backend integration (Node.js / Flask)
-🤖 AI-based insights
-🤝 Contributing
+-`🔄 Real-time data integration`
+-`📥 Export reports (PDF/CSV)`
+-`🌐 Backend integration (Node.js / Flask)`
+-`🤖 AI-based insights`
+-`🤝 Contributing`
 
 ---
 ### Contributions are welcome!
