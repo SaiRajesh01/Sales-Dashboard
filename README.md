@@ -80,11 +80,11 @@ The dataset includes key fields such as:
 ### 3️⃣ Run the project
 -`npm start`
 ### 📈 Dashboard Insights
--Identify top-performing regions
--Analyze customer behavior (New vs Returning)
--Track monthly revenue trends
--Monitor refund impact on revenue
--Compare product performance
+-`Identify top-performing regions`
+-`Analyze customer behavior (New vs Returning)`
+-`Track monthly revenue trends`
+-`Monitor refund impact on revenue`
+-`Compare product performance`
 ### 🎯 Use Cases
 -`Business Intelligence Dashboard`
 -`Sales Performance Monitoring`
