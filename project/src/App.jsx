@@ -261,10 +261,9 @@ const SalesDashboard = () => {
                 <div className="text-sm text-slate-600">North America and LATAM are top markets, representing 60%+ of revenue</div>
               </div>
               
-              <div className="border-l-4 border-purple-500 pl-4 py-2">
-                <div className="font-semibold text-slate-800">Healthy refund rate</div>
-                <div className="text-sm text-slate-600">8.6% refund rate indicates strong product-market fit and customer satisfaction</div>
-              </div>
+              1
+             2
+             3
 
               <div className="border-l-4 border-red-500 pl-4 py-2">
                 <div className="font-semibold text-slate-800">Organic channels outperform</div>
